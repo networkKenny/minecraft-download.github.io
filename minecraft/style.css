@@ -1,0 +1,28 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+}
+a{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid gray;
+    color: gray;
+    width: 100px;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: gray;
+    color: #fff;
+}
+h1,p,a{
+    text-align: center;
+}
+p{
+    margin-bottom: 20px;
+}
